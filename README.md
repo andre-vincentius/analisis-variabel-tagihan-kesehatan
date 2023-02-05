@@ -9,7 +9,8 @@ Pada project ini, saya mencoba menganalisis variable-variabel yang memiliki hubu
 yang diterima oleh setiap pengguna. Data tersebut yang berisi data personal pengguna seperti umur, gender, tempat tinggal
 pengguna, banyak anak tertanggung asuransi, nilai bmi, dan perilaku merokok pengguna.
 
-Project ini terbagi menjadi 2 bagian, yaitu Github repo dan Short Report pada link Medium.
+Project ini terbagi menjadi 2 bagian, yaitu Github repo dan Short Report pada link Medium:  
+https://medium.com/@andre.vincentius.angga/analisis-statistik-pada-data-tagihan-kesehatan-2b59b78dda4a
 
 Github repo ini akan terdapat 3 fail utama:
 1. README.md (yang sedang Anda baca saat ini), teks penjelasan singkat mengenai project ini.  
